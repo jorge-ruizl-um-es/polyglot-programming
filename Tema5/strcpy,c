@@ -1,0 +1,14 @@
+# include <stdio.h>
+
+void strcpy(char *s, char *t) {
+    while ((*s = *t) != '\0') {
+        s++;
+        t++;
+    }
+
+    /*
+    while ((*s++ = *t++) != '\0')
+        ;
+    La comparación con \0 es redundante porque si deja de haber contenido en la cadena s, la asignación es 0 (False)
+    */
+}

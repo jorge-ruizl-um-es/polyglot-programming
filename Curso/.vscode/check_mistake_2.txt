@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+#define PI 3.14159
+
+int main(void)
+{ 
+	double radius=0.0;
+	printf("Enter radius:");
+	scanf("%lf", &radius);
+	printf("volume is : %lf \n\n", (4*PI*radius*radius*radius)/3);
+	// hemos corregido el tipo de dato en la impresión del volumen y hemos añadido PI a la formula
+	return 0;
+}
