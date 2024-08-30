@@ -27,13 +27,13 @@ void initialize_deck(Card array[]) {
     int i = 0, suit, pips;
     for (suit = Clubs; suit <= Spades; suit++) {
         for (pips = 1; pips <= 13; pips++) {
-            array[i].s_val = (Suit) suit;
+            array[i].s_val = (Suit) suit;   // casting necessary
             array[i++].p_val = pips;
         }
     }
 }
 
-// function that randomly shuffles the deck
+// function that randomly shuffles the deck using an algorithm for random allocation
 void random_shuffle(Card array[]) {
     int i;
 
@@ -90,7 +90,7 @@ void evaluate_hand(Card hand[], int results[]) {
             four_of_a_kind++;
     }
 
-    if (three_of_a_kind==1 && pairs==1)
+    if (three_of_a_kind==1 && pairs==1)     // important to evaluate full first (if not, it would be counted as a pair or a trio)
         results[3]++;
     else if (pairs==1)
         results[0]++;
