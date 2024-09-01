@@ -143,8 +143,8 @@ int getop(char *s) {
 }
 
 int main () {
-    char s[MAXLEN] = "Peste y peos\n";
-    char t[MAXLEN] = " y pe";
+    char s[MAXLEN] = "Hola Mundo\n";
+    char t[MAXLEN] = "ndo";
     int type;
     
     while (getline(line)>0) {

@@ -17,7 +17,7 @@ int strend(char *s, char *t) {
 }
 
 int main() {
-    char *s = "Peste pestosa\n";   
-    char *t = "tosas\n";    
+    char *s = "Hola mundo\n";   
+    char *t = "mundos\n";    
     printf("%d", strend(s, t));
 }

@@ -30,7 +30,7 @@ int any(char s1[], char s2[])
 int main()
 {
     char s[] = "Hola mundo";
-    char s2[] = "peste y peos";
+    char s2[] = "adios mundo";
     int i = any(s, s2);
 
     printf("%d", i);

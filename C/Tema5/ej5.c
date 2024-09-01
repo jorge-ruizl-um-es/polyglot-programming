@@ -53,8 +53,8 @@ int strn_cmp(char *s, char *t, int n) {
 }
 
 int main() {
-    char s[] = "Peste pestuza\n";
-    char t[] = "Peste peos xddddddddddddd\n";    
+    char s[] = "Hola Mundo\n";
+    char t[] = "\tAdios Mundo\n";    
     //printf("%s", strn_cpy(s, t, 10));
     //printf("%s", strn_cat(s, t, 10));
     printf("%d", strn_cmp(s, t, 10));
