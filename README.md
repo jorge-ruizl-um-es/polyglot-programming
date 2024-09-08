@@ -11,4 +11,5 @@ La organización del repositorio de momento consiste en:
 	- Directorio con ejercicios realizados durante mi aprendizaje de C desde cero.
 	- Directorio análogo pero con C++ (menos avanzado).
 	- Directorio "interesting" con los programas o ejercicios más elaborados e interesantes en ambos lenguajes.
+	NOTA: este directorio incluye un archivo de texto IDEAS.md, que almacena ideas para hacer mejoras a ciertos programas que me gustaría desarrollar durante el curso.
 	- Directorio con los ficheros y archivos audiovisuales de los que consta mi primer videojuego programado en Python.
