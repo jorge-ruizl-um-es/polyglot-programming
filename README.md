@@ -30,7 +30,32 @@ Este repositorio documenta mi proceso de aprendizaje autónomo y complementario 
 ### 🕹️ Proyecto Pygame  
 - **Conceptos aplicados**: POO, patrones de diseño, gestión de assets y lógica de juego  
 - **Preview**:  
-  ![Captura del juego](game_screenshot.png) *Ejemplo de interfaz (reemplazar con tu imagen)*  
+  ![Captura del juego](game_screenshot.png) *Ejemplo de interfaz (reemplazar con tu imagen)*
+
+#### 🔧 Instrucciones para ejecutarlo
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/jorge-ruizl-um-es/polyglot-programming.git
+   cd python_game
+   ```
+
+2. Crea y activa un entorno virtual:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # Linux/Mac
+   venv\Scripts\activate  # Windows
+   ```
+
+3. Instalar dependencias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Ejecuta el juego:
+   ```bash
+   python my_game.py
+   ```
 
 ### 🚀 Próximos Objetivos  
 - [ ] Profundizar en C++ moderno (C++11/14/17)  
