@@ -12,3 +12,31 @@ Este repositorio documenta mi proceso de aprendizaje autónomo y complementario 
 - **Idiomas de documentación**: Español e Inglés  
 
 ## 🏗️ Estructura del Repositorio  
+
+├── C/                  # Ejercicios y proyectos en C
+├── C++/                # Ejercicios y proyectos en C++ 
+├── interesting/        # Códigos destacados y proyectos avanzados (C/C++)
+└── python_game/        # Videojuego desarrollado con Pygame (assets + código fuente)
+
+## 🎯 Detalles Técnicos  
+
+### 📚 Aprendizaje de C  
+- **Metodología**: Seguí el enfoque del libro *"The C Programming Language" (Kernighan & Ritchie)*, completando todos sus ejercicios y proyectos.  
+- **Enfoque**: Dominio de punteros, estructuras de datos, gestión de memoria y paradigma estructurado.
+- **Ampliación a C++**: Manejo de estructuras de datos complejas e iniciación a orientación a objetos. Desarrollo de algoritmos básicos de manejo de listas enlazadas, árboles, grafos...
+
+### 🕹️ Proyecto Pygame  
+- **Conceptos aplicados**: POO, patrones de diseño, gestión de assets y lógica de juego  
+- **Preview**:  
+  ![Captura del juego](game_screenshot.png) *Ejemplo de interfaz (reemplazar con tu imagen)*  
+
+### 🚀 Próximos Objetivos  
+- [ ] Profundizar en C++ moderno (C++11/14/17)  
+- [ ] Implementar pruebas unitarias en proyectos C/C++  
+- [ ] Añadir sistema de partículas al videojuego  
+
+## 📬 Colaboración  
+Al ser un repositorio de aprendizaje, ¡todo consejo o aportación son más que bienvenidos! Puedes:  
+- Reportar issues con mejoras  
+- Proponer ejercicios/challenges interesantes  
+- Compartir recursos de aprendizaje  
