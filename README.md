@@ -13,10 +13,12 @@ Este repositorio documenta mi proceso de aprendizaje autónomo y complementario 
 
 ## 🏗️ Estructura del Repositorio  
 
+```
 ├── C/                  # Ejercicios y proyectos en C
 ├── C++/                # Ejercicios y proyectos en C++ 
 ├── interesting/        # Códigos destacados y proyectos avanzados (C/C++)
 └── python_game/        # Videojuego desarrollado con Pygame (assets + código fuente)
+```
 
 ## 🎯 Detalles Técnicos  
 
