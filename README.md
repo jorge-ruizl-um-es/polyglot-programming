@@ -30,7 +30,7 @@ Este repositorio documenta mi proceso de aprendizaje autónomo y complementario 
 ### 🕹️ Proyecto Pygame  
 - **Conceptos aplicados**: POO, patrones de diseño, gestión de assets y lógica de juego  
 - **Preview**:  
-  ![Captura del juego](game_screenshot.png) *Ejemplo de interfaz (reemplazar con tu imagen)*
+  ![Captura del juego](python_game/muestra_juego.png) 
 
 #### 🔧 Instrucciones para ejecutarlo
 
