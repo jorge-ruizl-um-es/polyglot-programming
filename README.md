@@ -66,4 +66,8 @@ Este repositorio documenta mi proceso de aprendizaje autónomo y complementario 
 Al ser un repositorio de aprendizaje, ¡todo consejo o aportación son más que bienvenidos! Puedes:  
 - Reportar issues con mejoras  
 - Proponer ejercicios/challenges interesantes  
-- Compartir recursos de aprendizaje  
+- Compartir recursos de aprendizaje
+
+## Créditos
+
+Desarrollado por Jorge Ruiz López ([jorge.rulo2005@gmail.com](mailto:jorge.rulo2005@gmail.com)) con fines educativos, de aprendizaje propio y de mejora de habilidades personales en el ámbito de la programación. 
